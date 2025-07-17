@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programming Languages Explorer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Programming Languages Explorer</h1>
+        <p>A collaborative project to explore different programming languages and their features</p>
+    </header>
+
+    <main>
+        <section class="controls">
+            <button id="addLanguageBtn" class="btn">Add New Language</button>
+            <button id="filterBtn" class="btn">Filter by Type</button>
+            <input type="text" id="searchInput" placeholder="Search languages..." class="search-input">
+        </section>
+
+        <section class="languages-container">
+            <div id="languagesList" class="languages-grid">
+                <!-- Languages will be loaded here dynamically -->
+            </div>
+        </section>
+
+        <section class="stats">
+            <div class="stat-card">
+                <h3>Total Languages</h3>
+                <span id="totalLanguages">0</span>
+            </div>
+            <div class="stat-card">
+                <h3>Most Popular Type</h3>
+                <span id="popularType">-</span>
+            </div>
+            <div class="stat-card">
+                <h3>Average Year</h3>
+                <span id="avgYear">-</span>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Created by students learning Git collaboration</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html> 

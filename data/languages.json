@@ -1,0 +1,62 @@
+[
+  {
+    "name": "JavaScript!",
+    "year": 1995,
+    "type": "Dynamic",
+    "description": "A high-level, interpreted programming language that is one of the core technologies of the World Wide Web.",
+    "features": [
+      "Object-oriented",
+      "Event-driven",
+      "Functional programming",
+      "Async/await"
+    ]
+  },
+  {
+    "name": "Python",
+    "year": 1991,
+    "type": "Dynamic",
+    "description": "A high-level, interpreted programming language known for its simplicity and readability.",
+    "features": [
+      "Easy to learn",
+      "Large standard library",
+      "Cross-platform",
+      "Multiple paradigms"
+    ]
+  },
+  {
+    "name": "Java",
+    "year": 1995,
+    "type": "Static",
+    "description": "A class-based, object-oriented programming language designed to have as few implementation dependencies as possible.",
+    "features": [
+      "Platform independent",
+      "Object-oriented",
+      "Robust",
+      "Secure"
+    ]
+  },
+  {
+    "name": "C++",
+    "year": 1985,
+    "type": "Static",
+    "description": "A general-purpose programming language created as an extension of the C programming language.",
+    "features": [
+      "Object-oriented",
+      "Low-level memory manipulation",
+      "High performance",
+      "Multiple inheritance"
+    ]
+  },
+  {
+    "name": "Ruby",
+    "year": 1995,
+    "type": "Dynamic",
+    "description": "A dynamic, open source programming language with a focus on simplicity and productivity.",
+    "features": [
+      "Object-oriented",
+      "Dynamic typing",
+      "Garbage collection",
+      "Metaprogramming"
+    ]
+  }
+]
