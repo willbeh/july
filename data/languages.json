@@ -58,5 +58,8 @@
       "Garbage collection",
       "Metaprogramming"
     ]
+  },
+  {
+    "name": "Rust"
   }
 ]
