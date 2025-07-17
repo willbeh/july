@@ -27,7 +27,7 @@
     "name": "Java",
     "year": 1995,
     "type": "Static",
-    "description": "A class-based, object-oriented programming language designed to have as few implementation dependencies as possible.",
+    "description": "A good class-based, object-oriented programming language designed to have as few implementation dependencies as possible.",
     "features": [
       "Platform independent",
       "Object-oriented",
